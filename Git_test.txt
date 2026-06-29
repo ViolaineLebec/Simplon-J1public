@@ -3,3 +3,5 @@ Première modification de mon fichier. Je suis sur la branche "Fonctionnalite_1"
 Modification entre les commits 1 et 2.
 
 Modification entre les commits 2 et 3.
+
+Modification entre les commits 3 et 4.
