@@ -1,1 +1,3 @@
 Je viens de créer la branche Fonctionnalite_2 et j'enregistre cette fonctionnalité imaginaire dans le fichier Git_test_2.
+
+Ce texte n'était pas présent sur ma Branche_3, je comprends donc que mes branches ne partent que du tronc (main) et ne peuvent pas être une branche secondaire à une autre branche (du moins, je ne sais pas le faire). Je dois donc faire un merge avant de créer une autre branche si je veux que le texte ci-avant s'affiche dans ma nouvelle branche.
