@@ -1,1 +1,3 @@
 Première modification de mon fichier. Je suis sur la branche "Fonctionnalite_1" tout juste créée et je n'ai pas encore enregistré de commit sur cette branche.
+
+Modification entre les commits 1 et 2.
