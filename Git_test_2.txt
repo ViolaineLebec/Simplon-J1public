@@ -1,0 +1,1 @@
+Je crois que je ne peux pas créer une Branche_3 à partir de ma branche Fonctionnalite_2, seulement à partir de ma branche main. Sinon mon fichier ne serait pas vide.
